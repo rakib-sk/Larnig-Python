@@ -1,0 +1,2 @@
+
+ now i use r+ mode. i write fast line in file i use a its not delet old data in the file
