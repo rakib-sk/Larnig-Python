@@ -1,2 +1,3 @@
-data = 'Hello'
-print(data)
+file = open("data.txt","r")
+print(file.readline())
+file.close()
